@@ -29,4 +29,3 @@ if __name__ == '__main__':
             for i in extract_employee}
         json.dump(dict_task, file)
     file.close()
-
